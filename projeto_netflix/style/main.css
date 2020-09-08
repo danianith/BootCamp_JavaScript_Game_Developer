@@ -1,0 +1,212 @@
+:root {
+    --vermelho: #E50914;
+    --preta: #141414;
+}
+
+@font-face {
+    font-family: 'bebas';
+    src: url('../fonts/BebasNeue.otf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Elementos Base */
+
+body {
+    background: var(--preta);
+    font-family: Verdana, serif;
+    color: white;
+    
+}
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+header .logo {
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'bebas';
+    font-size: 50px;    
+}
+
+header nav a {
+    font-size: 13px;
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;  
+}
+
+header nav a:hover {
+    color: #fff;
+}
+
+/* Filme Principal */
+
+.filme-principal {
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('..//img/capa-she.jpg');
+    background-position: 50%;
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 15px;
+}
+
+.filme-principal .titulo {
+    margin-top: 5%;
+    width: 80%;
+}
+
+.botao {
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+    border-radius: 80px;
+}
+
+#roxo {
+    background-color: rebeccapurple;
+}
+
+#roxo:hover {
+    background-color: white;
+    color: black;
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+}
+
+.botao i {
+    margin-right: 8px;
+}
+
+.botao a {
+    text-decoration: none;
+}
+
+.botao a:hover {
+    background-color: white;
+    color: black;
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.filme-principal .container {
+    width: 60%;
+}
+
+.box-filme {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-filmes {
+    margin-top: 5px;
+}
+
+.modal {
+    position: fixed;
+    top: 25%;
+    right: 25%;
+    bottom: 25%;
+    left: 25%;
+    width: 45%;
+    height: 55%;
+    font-family: Verdana;
+    background: rgba(0,0,0,0.8);
+    z-index: 99999;
+    opacity:0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+  }
+
+  .modal:target {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .modal > div {
+    width: 400px;
+    position: relative;
+    margin: 10% auto;
+    padding: 15px 20px;
+    background: #fff;
+  }
+
+  .modal .youtube {      
+      margin: 3%;
+      width: 94%;
+      height: 90%;
+  }
+
+  .fechar {
+    position: absolute;
+    width: 30px;
+    right: -15px;
+    top: -20px;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 5px;
+    background: #E50914;
+    border-radius: 50%;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+  }
+
+  #abrirModal2 {      
+      padding: 2%;
+      width: 60%;
+      height: 65%;
+      font-size: 15px;
+  }
+
+  .modal img {
+      width: 70%;
+      margin-bottom: 5px;
+  }
+
+  footer#rodape {
+    clear:both;
+    margin-bottom: 2%;
+}
+
+footer#rodape p{
+    text-align: center;
+    font-size: 10pt;
+    font-family: verdana;
+    color: #808080;    
+}
+
+footer a {
+    color: #808080;
+}

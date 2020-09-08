@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">   
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style/main.css">
+        <!--responsividade-->
+        <link rel="stylesheet" href="style/responsive.css">
+        <!-- owl css-->
+        <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
+        <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+
+        <title>CLONEFLIX</title>
+    </head>
+
+    <body>
+
+        <header>
+            <div class="container">
+                <h2 class="logo">CLONEFLIX</h2>
+                <nav>
+                    <a href="#">Início</a>
+                    <a href="#">Séries</a>
+                    <a href="#">Filmes</a>
+                    <a href="#">Minha Lista</a>   
+                </nav>
+            </div>
+        </header>
+
+        <main>        
+            <div class="filme-principal">
+                <div class="container">                
+                    <img class="titulo" src="img/logoshe.png"/>              
+                    <p class="descricao">A soldado Adora encontra uma espada mágica e sua identidade como a heroína She-Ra. <br>Ela se junta à Rebelião, mas sua melhor amiga fica do lado da Horda do Mal.</p>              
+                    <div class="botoes">
+                        <a href="#abrirModal">
+                            <button role="button" class="botao" id="roxo">
+                                <i class="fas fa-play"></i>
+                                ASSISTIR
+                            </button>
+                        </a>
+                        <a href="#abrirModal2">
+                            <button role="button" class="botao">
+                                <i class="fas fa-info-circle"></i>
+                                MAIS INFORMAÇÕES
+                            </button>
+                        </a>
+                    </div>          
+                </div>
+            </div>
+        </main>
+
+        <div class="carrosel-filmes">
+            <div class="owl-carousel owl-theme">
+                <div class="item">
+                    <a href="https://www.themoviedb.org/tv/68035-when-we-rise?language=pt-BR" target="_blank"><img class="box-filme" src="img/mini1.jpg" alt="Imagem do documentário When We Rise"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.disneychannel.ca/shows/the-owl-house/" target="_blank"><img class="box-filme" src="img/mini2.jpg" alt="Imagem da animação The Owl House"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.netflix.com/title/80241986" target="_blank"><img class="box-filme" src="img/mini3.jpg" alt="Imagem do seriado Pose"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.netflix.com/title/80136311" target="_blank"><img class="box-filme" src="img/mini4.jpg" alt="Imagem do seriado Anne With an E"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=KK8FHdFluOQ" target="_blank"><img class="box-filme" src="img/mini5.jpg" alt="Imagem do Live Action Mulan"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.netflix.com/title/70297439" target="_blank"><img class="box-filme" src="img/mini6.jpg" alt="Imagem animação Pokémon"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.netflix.com/title/80223989" target="_blank"><img class="box-filme" src="img/mini7.jpg" alt="Imagem do seriado Chilling Adventures of Sabrina"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.netflix.com/title/70187741" target="_blank"><img class="box-filme" src="img/mini8.jpg" alt="Imagem do reality show RuPaul's Drag Race"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.netflix.com/title/80221553" target="_blank"><img class="box-filme" src="img/mini9.jpg" alt="Imagem da animação KIPO"/></a>
+                </div>
+                <div class="item">
+                    <a href="https://disney.com.br/filmes/capita-marvel" target="_blank"><img class="box-filme" src="img/mini10.jpg" alt="Imagem do filme Capitã Marvel"/></a>
+                </div>
+            </div>
+        </div>
+
+        <!--js no final para não dar problemas ao carregar a página-->
+        <script src="https://kit.fontawesome.com/ec9b0f5c8c.js" crossorigin="anonymous"></script>
+        <script src="js/owl/jquery.min.js"></script>
+        <script src="js/owl/owl.carousel.min.js"></script>
+        <script src="js/owl/setup.js"></script>
+
+        <div id="abrirModal" class="modal">
+            <a href="#fechar" title="Fechar" class="fechar">X</a>
+            <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/l0X_6bzy_NI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+        <div id="abrirModal2" class="modal">            
+            <a href="#fechar" title="Fechar" class="fechar">X</a>
+                <img src="img/logoshe.png"/>
+                <p>Animação, Kids, Sci-Fi & Fantasy - Classificação Livre</p>
+                <p>Nome original: She-Ra and the Princesses of Power<br>
+                Situação: Finalizada - 5 Temporadas<br>            
+                Produção: Noelle Stevenson e Chuck Austen</p>
+                <p>Primeiro episódio: 13 de novembro de 2018<br>
+                Episódio final: 15 de maio de 2020</p><br>
+                <h3>Elenco:</h3>
+                <p>Aimee Carrero, Karen Fukuhara, AJ Michalka, Marcus Scribner, Reshma Shetty, Lorraine Toussaint, 
+                Keston John, Lauren Ash, Christine Woods, Génesis Rodríguez, Jordan Fisher...</p>
+            </div>       
+        </div>
+        <footer id="rodape">
+                <p>Copyright &copy; 2020 - by Daniani Thozeski<br></p>
+                <p><a href="http://www.linkedin.com/in/danianith" target="_blank">LinkedIn</a> | <a href="http://www.github.com/danianith" target="_blank">GitHub</a></p>
+        </footer>
+    </body>
+</html>
