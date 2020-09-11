@@ -1,6 +1,8 @@
 
 Exercício do Curso de Introdução ao HTML5 e CSS3 da DIO.
 
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/int_html5_css3/index.html">Acesse a página aqui</a>
+
 
 Introdução a criação de websites com HTML5 e CSS3 - Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos.
 

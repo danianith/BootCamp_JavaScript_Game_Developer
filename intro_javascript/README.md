@@ -1,6 +1,8 @@
 
 Exercício do Curso Programação para internet com JavaScript da DIO.
 
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/intro_javascript/index.html">Acesse o Exercício aqui</a>
+
 
 Programação para internet com JavaScript - JavaScript é uma das mais importantes linguagens front-end, e nesse curso você entenderá o porquê disso e como trabalhar com ela.
 

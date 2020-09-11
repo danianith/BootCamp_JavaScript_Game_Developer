@@ -1,7 +1,7 @@
 
 Repositório com os exercícios e projetos do BootCamp JavaScript Game Developer da Digital Innovation One.
 
-<a href="https://web.digitalinnovation.one/users/danianith" target="_blank">Acesse aqui minha página da DIO</a>
+<a href="https://web.digitalinnovation.one/users/danianith" target="_blank">Acesse minha página da DIO</a>
 
 
 BootCamp JavaScript Game Developer - Intermediário - 28 atividades - 108 hrs.
@@ -111,7 +111,9 @@ ________________________________________________________________________________
 - Propriedades de dimensões e alinhamento
     
 
-Aulas 8/8 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.one/1A9A2993" target="_blank">Certificado</a>
+Aulas 8/8 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.one/1A9A2993" target="_blank">Certificado</a><br>
+
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/int_html5_css3/index.html">Acesse a página criada aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -120,7 +122,9 @@ ________________________________________________________________________________
 Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
 Parte 1 - Parte 2 - Parte 3 - Parte 4
 
-Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/98451885" target="_blank">Certificado</a>
+Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/98451885" target="_blank">Certificado</a><br>
+
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_recriando_login_instagram/index.html">Acesse meu projeto aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -150,7 +154,9 @@ ________________________________________________________________________________
 - Parte 2: Manipulando elementos da página
 - Certifique seu conhecimento
 
-Aulas 2/2 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/360C8400" target="_blank">Certificado</a>
+Aulas 2/2 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/360C8400" target="_blank">Certificado</a><br>
+
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/intro_javascript/index.html">Acesse o Exercício aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -186,7 +192,9 @@ ________________________________________________________________________________
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 Parte 1 à 9.
 
-Projeto 1/1 - Avançado - 5 hrs - <a href="https://certificates.digitalinnovation.one/6F408A31" target="_blank">Certificado de Conclusão do Projeto</a>
+Projeto 1/1 - Avançado - 5 hrs - <a href="https://certificates.digitalinnovation.one/6F408A31" target="_blank">Certificado de Conclusão do Projeto</a><br>
+
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_netflix/index.html" target="_blank">Acesse Meu Projeto aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
