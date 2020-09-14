@@ -1,0 +1,291 @@
+@font-face {
+    font-family: 'titulo';
+    src: url('../fontes/ANODETONOONE.TTF');
+}
+
+h1 {
+    font-family: 'titulo';
+    font-size: 40px;
+    color: #603A03;
+}
+
+p {
+    font-family: helvetica;
+    font-size: 15pt;
+}
+
+body {
+    background-image: url('../imgs/fundo.jpg');
+}
+
+#container {
+    width: 950px;
+    height: auto;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fundoGame {
+    width: 950px;
+    height: 630px;
+    background-image: url('../imgs/fundo_game.jpg');
+    border-color: #fff;
+    border-style: solid;
+}
+
+#jogador {
+    width: 256px;
+    height: 66px;
+    position: absolute;
+    left: 8px;
+    top: 179px;
+    background-image: url('../imgs/apache.png');
+}
+
+#inimigo1 {
+    width: 256px;
+    height: 66px;
+    position: absolute;
+    left: 689px;
+    top: 253px;
+    background-image: url('../imgs/inimigo1.png');
+}
+
+#inimigo2 {
+    width: 165px;
+    height: 70px;
+    position: absolute;
+    left: 775px;
+    top: 447px;
+    background-image: url('../imgs/inimigo2.png');
+}
+
+#amigo {
+    width: 44px;
+    height: 51px;
+    position: absolute;
+    left: 10px;
+    top: 464px;
+    background-image: url('../imgs/amigo.png');
+}
+
+#inicio {
+    width: 350px;
+    height: 250px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5%;
+}
+
+.jogar {
+    font-family: 'Arial Black';
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+    background: #603A03;
+    border-radius: 5%;
+
+}
+
+/*Inicio animações*/
+
+.anima1 { /* Animação do Helicoptero do Jogador */
+    background-image: url('../imgs/apache.png');
+    animation: play .5s steps(2) infinite;
+
+    -webkit-animation: play .5s steps(2) infinite;  /*Para funcionar no Chrome*/
+    -moz-animation: play .5s steps(2) infinite;  /*Para funcionar no Mozilla*/
+    -ms-animation: play .5s steps(2) infinite;   /*Para funcionar no Explorer*/
+    -o-animation: play .5s steps(2) infinite;   /*Para funcionar no Opera*/
+}
+
+.anima2 { /* Animação do Helicóptero do Inimigo */
+    background-image: url('../imgs/inimigo1.png');
+    animation: play .5s steps(2) infinite;
+
+    -webkit-animation: play .5s steps(2) infinite;  /*Para funcionar no Chrome*/
+    -moz-animation: play .5s steps(2) infinite;  /*Para funcionar no Mozilla*/
+    -ms-animation: play .5s steps(2) infinite;   /*Para funcionar no Explorer*/
+    -o-animation: play .5s steps(2) infinite;   /*Para funcionar no Opera*/
+}
+
+@keyframes play {
+    from {background-position: 0px;}
+    to {background-position:-512px;}
+}
+
+@-webkit-keyframes play {
+    from {background-position: 0px;}
+    to {background-position:-512px;}
+}
+
+@-moz-keyframes play {
+    from {background-position: 0px;}
+    to {background-position:-512px;}
+}
+
+@-ms-keyframes play {
+    from {background-position: 0px;}
+    to {background-position:-512px;}
+}
+
+@-o-keyframes play {
+    from {background-position: 0px;}
+    to {background-position:-512px;}
+}
+
+.anima3 {  /* Animação do amigo */
+    background-image: url('../imgs/amigo.png');
+    animation: play2 .9s steps(12) infinite;
+
+    -webkit-animation: play2 .9s steps(12) infinite;  /*Para funcionar no Chrome*/
+    -moz-animation: play2 .9s steps(12) infinite;  /*Para funcionar no Mozilla*/
+    -ms-animation: play2 .9s steps(12) infinite;   /*Para funcionar no Explorer*/
+    -o-animation: play2 .9s steps(12) infinite;   /*Para funcionar no Opera*/
+}
+
+@keyframes play2 {
+    from {background-position: 0px;}
+    to {background-position:-528px;}
+}
+
+@-webkit-keyframes play2 {
+    from {background-position: 0px;}
+    to {background-position:-528px;}
+}
+
+@-moz-keyframes play2 {
+    from {background-position: 0px;}
+    to {background-position:-528px;}
+}
+
+@-ms-keyframes play2 {
+    from {background-position: 0px;}
+    to {background-position:-528px;}
+}
+
+@-o-keyframes play2 {
+    from {background-position: 0px;}
+    to {background-position:-528px;}
+}
+
+#disparo {
+    width: 50px;
+    height: 8px;
+    position: absolute;
+    background-image: url("../imgs/disparo.png");
+}
+
+#explosao1 {
+    width:15px;
+    height: 87px;
+    position: absolute;
+}
+
+#explosao2 {
+    width: 15px;
+    height: 87px;
+    position: absolute;
+}
+
+#explosao3 {
+    width: 44px;
+    height: 51px;
+    position: absolute;
+}
+
+.anima4 {
+	width:44px;
+	height:51px;
+	background-image:url("../imgs/amigo_morte.png");
+	animation:play3 .5s steps(7) infinite;
+	-webkit-animation: play3 .5s steps(7) infinite;
+    -moz-animation: play3 .5s steps(7) infinite;
+    -ms-animation: play3 .5s steps(7) infinite;
+    -o-animation: play3 .5s steps(7) infinite;
+}
+
+@keyframes play3 {
+	from {background-position:0px;}
+	to {background-position:-308px;}
+}
+
+@-webkit-keyframes play3 {
+   from { background-position:    0px; }
+     to { background-position: -308px; }
+}
+
+@-moz-keyframes play3 {
+   from { background-position:    0px; }
+     to { background-position: -308px; }
+}
+
+@-ms-keyframes play3 {
+   from { background-position:    0px; }
+     to { background-position: -308px; }
+}
+
+@-o-keyframes play3 {
+   from { background-position:    0px; }
+     to { background-position: -308px; }
+}
+
+#placar {
+    width: 450px;
+    height: 50px;
+    position: absolute;
+    left: 5px;
+    top: 590px;
+}
+
+h2 {
+    font-family: 'titulo';
+    font-size: 20px;
+    color: #fff;
+}
+
+#energia {
+    width: 140px;
+    height: 38px;
+    position: absolute;
+    left: 750px;
+    top: 7px;
+}
+
+h3 {
+	font-family: 'titulo';
+	font-size: 20px;
+	color:black;
+}
+
+#fim {
+	width:350px;
+	height:200px;
+	background-color:#FFF;
+ 	margin-left:auto;
+    margin-right:auto;
+ 	margin-top:100px;
+	text-align:center;
+	padding:10px;
+}
+
+footer#rodape {
+    clear:both;
+    margin-bottom: 2%;
+}
+
+footer#rodape p{
+    text-align: center;
+    font-size: 10pt;
+    font-family: Verdana;
+    color: white;    
+}
+
+footer a {
+    color: white;
+}

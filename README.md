@@ -128,7 +128,7 @@ Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-7 - Conceitos de responsividade e experiência do usuário - Esse curso vai ensinar sobre a experiência do usuário e interface do usuário, ou seja, como ele interage com a plataforma web, se ela é intuitiva e de fácil entendimento para quem acessa.
+07 - Conceitos de responsividade e experiência do usuário - Esse curso vai ensinar sobre a experiência do usuário e interface do usuário, ou seja, como ele interage com a plataforma web, se ela é intuitiva e de fácil entendimento para quem acessa.
 
 - Conceitos de responsividade e experiência do usuário:
 
@@ -143,7 +143,7 @@ Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnova
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-8 - Programação para internet com JavaScript - JavaScript é uma das mais importantes linguagens front-end, e nesse curso você entenderá o porquê disso e como trabalhar com ela.
+08 - Programação para internet com JavaScript - JavaScript é uma das mais importantes linguagens front-end, e nesse curso você entenderá o porquê disso e como trabalhar com ela.
 
 - Introdução ao JavaScript
 - Array e Dicionário
@@ -160,7 +160,7 @@ Aulas 2/2 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.on
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-9 - JavaScript ES6 essencial - Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
+09 - JavaScript ES6 essencial - Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
 - Introdução ao ES6
 - História e conceitos;
@@ -206,7 +206,21 @@ Desafios 3/3 - Básico
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+12 - Construindo o seu primeiro jogo de naves
 
+Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de desenvolvimento compatível com os diversos dispositivos móveis no mercado e também com os diferentes navegadores (browsers). Utilizando o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, é possível desenvolver jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser. Partes 1 até 22.
+
+Projeto 1/1 - Intermediário - 5 hrs - <a href="">Certificado</a><br>
+
+<a href="">Acesse meu jogo aqui</a>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 
