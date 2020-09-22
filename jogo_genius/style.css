@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background-color: rgb(216, 218, 219);
+}
+
+h1 {
+    margin: 1px;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+.main-game {
+    height: 100vh; /* ViewPort Height - tamanho visível no navegador */
+    width: 100vw;  /* ViewPort Width - tamanho visível no navegador */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -75px;
+}
+
+.genius {
+    display: grid; /* Precisa ser dividido em 4 por isso vamos usar o grid */
+    grid-template-areas: 'verde vermelho' /* Dar um nome para cada um dos containers dele */
+    'amarelo azul';
+    grid-gap: 10px;  /* Grid-Gap é o espaço entre cada área do nosso grid */
+    border: 1px solid #ffffff;
+    background-color: white;
+    border-radius: 100%;
+    width: 450px;
+    height: 450px;
+}
+
+.blue {
+    grid-area: azul; /* Local onde foi setado no grid-template-area para ser o azul */
+    background-color: blue;
+    border-bottom-right-radius: 100%; /* Deixa arredondado apenas o lado inferior direito */
+}
+
+.red {
+    grid-area: vermelho; /* Local onde foi setado no grid-template-area para ser o vermelho */
+    background-color: red;
+    border-top-right-radius: 100%; /* Deixa arredondado apenas o lado superior direito */
+}
+
+.yellow {
+    grid-area: amarelo; /* Local onde foi setado no grid-template-area para ser o amarelo */
+    background-color: yellow;
+    border-bottom-left-radius: 100%; /* Deixa arredondado apenas o lado inferior esquerdo */
+}
+
+.green {
+    grid-area: verde; /* Local onde foi setado no grid-template-area para ser o verde */
+    background-color: rgb(4, 71, 4);
+    border-top-left-radius: 100%; /* Deixa arredondado apenas o lado superior esquerdo */
+}
+
+.selected {
+    opacity: 0.4; /* Quando a cor for selecionado no jogo, ficará mais clara. Função chamada no js. */
+}
+
+.rodape {
+    clear:both;
+    margin-top: -75px;
+    margin-bottom: 0;
+}
+
+.rodape p{
+    text-align: center;
+    font-size: 10pt;
+    font-family: Arial;
+    color: #808080;    
+}
+
+footer a {
+    color: #808080;
+}
+
+footer a:hover {
+    color: purple;
+    font-weight: bolder;    
+}

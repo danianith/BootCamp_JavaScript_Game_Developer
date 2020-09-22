@@ -232,11 +232,13 @@ Desafios 5/5 - Básico
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+15 - Criando seu jogo de memória estilo Genius
 
+Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
+Projeto 1/1 - Básico - 2 hrs - <a href="">Certificado</a>
 
-
-
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/jogo_genius/index.html">Acesse meu jogo aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
