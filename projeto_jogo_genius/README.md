@@ -3,7 +3,7 @@ Projeto para recriar o jogo de memória Genius com HTML5, CSS3 e JavaScript da D
 
 Fiz algumas mudanças de fontes, tamanhos e cores. Fiz algumas mudanças nos textos dos alerts. Adicionei títulos e acrescentei um footer com meus contatos.
 
-<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/jogo_genius/index.html">Acesse meu jogo aqui</a>
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_jogo_genius/index.html">Acesse meu jogo aqui</a>
 
 
 Criando seu jogo de memória estilo Genius
