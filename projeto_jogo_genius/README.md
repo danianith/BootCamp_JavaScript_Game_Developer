@@ -6,7 +6,7 @@ Fiz algumas mudanças de fontes, tamanhos e cores. Fiz algumas mudanças nos tex
 <a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_jogo_genius/index.html">Acesse meu jogo aqui</a>
 
 
-* Criando seu jogo de memória estilo Genius
+* Criando seu jogo de memória estilo Genius - Professora Gabriela Pinheiro - Dio.
 
 Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
