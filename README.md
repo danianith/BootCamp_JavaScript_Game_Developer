@@ -260,7 +260,19 @@ Projeto 1/1 - Intermediário - 2 hrs - <a href="https://certificates.digitalinno
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+18 - Entendendo Promises de uma vez por todas
 
+Neste projeto prático vamos mergulhar fundo no padrão Promises e entender como funciona todo o fluxo assíncrono de funções em Javascript!
+
+Aulas 1/1 - Intermediário - 2 hrs - <a href="https://certificates.digitalinnovation.one/BCEC88FF">Certificado</a>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+19 - Como funciona o async/await
+
+As promises são um recurso importante do JavaScript que podem ser aplicadas de diversas formas. Aprenda sobre o que é e como utilizar as keywords async e await para otimizar o desenvolvimento de projetos.
+
+Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnovation.one/BC885770">Certificado</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
