@@ -276,7 +276,13 @@ Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnova
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+20 - Desenvolvendo um jogo da memória
 
+Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML, CSS e Javascript. Com poucas linhas de código, aprenderemos juntos a trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
+
+Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/">Certificado</a>
+
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_jogo_memoria/index.html">Acesse meu jogo aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 

@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'sm';
+    src: url(font/sm.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 95vh; /* Tamanho da Tela Visível */   
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)100%), url('./img/back.png');
+    background-size: cover;
+    background-size: 100%;
+}
+
+h1 {
+    font: normal 35pt 'sm';
+    text-align: center;
+    margin-top: 15px;
+}
+
+.memory-game {
+    height: 480px;
+    width: 480px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap; /* Quando os elementos não couberem mais na linha, quebra pra linha de baixo. */
+    perspective: 1000px; /* Mostra a perspectiva do usuário no eixo Z. Quanto maior a perspective maior o efeito 3D */
+}
+
+.card {
+    height: calc(33.333% - 10px);
+    width: calc(25% - 10px);
+    margin: 5px;
+    position: relative;
+    box-shadow: 1px 1px 1px rgba(1, 1, 1, .3);
+    cursor: pointer;
+    transform: scale(1); /* Vai preservar o tamanho original dele */
+    transform-style: preserve-3d; /* Não deixa o elemento achatado no plano */
+    transition: transform .9s;
+}
+
+.card:active { /* Evento de click */
+    transform: scale(0.97);  /* Altera a escala da imagem para 97% */
+    transition: transform .3s; /* E a transformação acontecerá em 0.3 segundos.*/
+}
+
+.card-front, 
+.card-back { /* As duas faces serão setadas com posição absoluta uma por cima da outra p/fazer o efeito de carta virando. */
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    position: absolute;
+    border-radius: 5px;
+    background: rgb(151, 240, 151);
+    backface-visibility: hidden; /* Propriedade que retira o verso do elemento. Retira a visibilidade das costas do elemento, assim quando virar a carta n aparecerá espelhado do outro lado. */
+}
+
+.card-front {
+    transform: rotateY(180deg); /* Rotaciona a carta 180° no eixo Y (vertical) */
+}
+
+/* Flip card Animation */
+.card.flip {
+    transform: rotateY(180deg);
+}
+
+.rodape {
+    clear:both;
+    margin-bottom: 10px;
+}
+
+.rodape p{
+    text-align: center;
+    font-size: 10pt;
+    font-family: verdana;
+    color: #808080;    
+}
+
+footer a {
+    color: #808080;
+}
+
+footer a:hover {
+    color: green;
+    font-weight: bolder;    
+}
