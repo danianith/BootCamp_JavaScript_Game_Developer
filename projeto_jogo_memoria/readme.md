@@ -11,4 +11,4 @@ Projeto Desenvolvendo um jogo da memória - Professora Gabriela Pinheiro - DIO
 Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML, CSS e Javascript. Com poucas linhas de código, aprenderemos juntos a trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
 Partes 1 até 7.
 
-Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/">Certificado</a>
+Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/B3570C1F">Certificado</a>
