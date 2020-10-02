@@ -1,5 +1,11 @@
 body {
     background: #fafafa;
+    width: 98%;
+}
+
+.botao {
+    padding: 3px;
+    margin-left: 48%;
 }
 
 .dino {
