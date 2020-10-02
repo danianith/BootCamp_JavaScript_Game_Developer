@@ -13,6 +13,15 @@ function handleKeyUp(event) {
         }       
     }
 }
+//Função que inclui um botão reiniciar quando acaba o jogo
+function createButton(){
+     var btn = document.createElement('BUTTON');
+     var lbl = document.createTextNode("Reiniciar");
+     btn.classList.add('botao');
+     btn.appendChild(lbl);   
+     btn.onclick = function() {window.location.reload()};     
+     document.body.appendChild(btn);    
+}
 
 //Função para o pulo do dino
 function jump() {
@@ -59,6 +68,7 @@ function createCactus() {
             //Game Over
             clearInterval(leftInterval);
             document.body.innerHTML = '<h1 class="game-over">Fim de Jogo!</h1>';
+            createButton(); //Cria o botão para reiniciar
         
         } else { // Caso o cactus não tenha tingido a posição -60 segue movendo -10px a cada 20ms.
             cactusPosition -= 10;  //Velocidade que se moverá para a esquerda.
