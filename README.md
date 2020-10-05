@@ -314,7 +314,7 @@ ________________________________________________________________________________
 
 Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. Vamos abordar conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e uma pouco de lógica!
 
-Projeto 1/1 - Básico - 5 hrs - <a href="">Certificado</a> 
+Projeto 1/1 - Básico - 5 hrs - <a href="https://certificates.digitalinnovation.one/FC6B6231">Certificado</a> 
 
 <a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_jogo_da_velha/index.html">Acesse meu jogo aqui</a>
 

@@ -10,5 +10,5 @@ Fiz algumas mudanças no CSS, como inserção de uma imagem como background, inc
 Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. Vamos abordar conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e um pouco de lógica!
 Partes 1 até 8.
 
-Projeto 1/1 - Básico - 5 hrs - <a href="https://certificates.digitalinnovation.one/">Certificado</a>
+Projeto 1/1 - Básico - 5 hrs - <a href="https://certificates.digitalinnovation.one/FC6B6231">Certificado</a>
 
