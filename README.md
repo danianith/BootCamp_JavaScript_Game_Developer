@@ -286,11 +286,45 @@ Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+21 - Ordenação e Filtros em JavaScript
 
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Desafios 5/5 - Intermediário
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+22 - Fundamentos de Arquitetura de Sistemas
 
+Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.
+
+Aulas 5/5 - Básico - 7 hrs - <a href="https://certificates.digitalinnovation.one/0BD2C7E6">Certificado</a>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+23 - Introdução a Busca e Substituição em JavaScript
+
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Desafios 5/5 - Intermediário
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+24 - Criando seu próprio jogo da velha com HTML e Javascript
+
+Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. Vamos abordar conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e uma pouco de lógica!
+
+Projeto 1/1 - Básico - 5 hrs - <a href="">Certificado</a> 
+
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_jogo_da_velha/index.html">Acesse meu jogo aqui</a>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+25 - Projetos ágeis com SCRUM
+
+SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso ensinará os fundamentos e práticas da metodologia.
+
+Aulas 3/3 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/DF2B078F">Certificado</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
