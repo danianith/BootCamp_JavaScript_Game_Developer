@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>## Shooter Galaxy ##</title>
+    </head>
+    <body>
+
+        <div id="main-play-area">
+            <img class="player-shooter" src="./img/hero.png" alt="hero">
+            <h4 class="game-instructions">
+                Não deixe os inimigos invadirem o seu planeta!
+            </h4>
+            <div class="start-button">
+                <h1>START</h1>
+            </div>
+            <div class="par">      
+            <p><strong>Como Jogar:</strong></p>
+            <p><strong>Up</strong> - Mover nave para cima<br><strong>Down</strong> - Mover nave para baixo<br>
+            <strong>Barra de espaço</strong> - Atirar</p>
+            </div>        
+        </div>
+
+        <footer class="rodape">
+            <p>&copy;<strong>Daniani Thozeski 2020</strong><br>
+            <a href="http://www.linkedin.com/in/danianith" target="_blank">LinkedIn</a> | <a href="http://www.github.com/danianith" target="_blank">GitHub</a></p>
+        </footer>
+
+        <!-- Sons do jogo !-->
+        <audio src="sons/tiro.mp3" preload="auto" id="somDisparo"></audio>
+        <audio src="sons/explosao.mp3" preload="auto" id="somExplosao"></audio>
+        <audio src="sons/fundo.mp3" preload="auto" id="somFundo"></audio>
+        <audio src="sons/start-over.mp3" preload="auto" class="somStart" id="somGameover"></audio>
+        
+        <script type="text/javascript" src="script.js"></script>        
+        
+    </body>
+</html>

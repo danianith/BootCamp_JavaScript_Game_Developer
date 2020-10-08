@@ -328,5 +328,27 @@ Aulas 3/3 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.on
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+26 - Solução de Problemas com JavaScript
 
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Desafios 7/7 - Avançado
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+27 - Criando seu jogo no estilo Space Shooter
+
+Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
+
+Projeto 1/1 - Intermediário - 6 hrs - <a href="https://certificates.digitalinnovation.one/">Certificado</a> 
+
+<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_jogo_space_shooter/index.html">Acesse meu jogo aqui</a>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+28 - Resolvendo Algoritmos com JavaScript
+
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Desafios 5/5 - Avançado
 _______________________________________________________________________________________________________________________________________________________________________
