@@ -8,6 +8,7 @@ BootCamp JavaScript Game Developer - Intermediário - 28 atividades - 108 hrs.
 
 Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carreira em desenvolvimento front-end e se transformar em um dev de alto nível.
 
+<a href="https://certificates.digitalinnovation.one/DC7AD366">Certificado de conclusão do Bootcamp</a>
 
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -340,7 +341,7 @@ ________________________________________________________________________________
 
 Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
 
-Projeto 1/1 - Intermediário - 6 hrs - <a href="https://certificates.digitalinnovation.one/">Certificado</a> 
+Projeto 1/1 - Intermediário - 6 hrs - <a href="https://certificates.digitalinnovation.one/134FEAC3">Certificado</a> 
 
 <a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_jogo_space_shooter/index.html">Acesse meu jogo aqui</a>
 

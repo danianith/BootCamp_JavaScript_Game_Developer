@@ -12,4 +12,4 @@ Acrescentei um parágrafo na página inicial explicando como jogar. Acrescentei 
 Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
 Partes 1 até 8.
 
-Projeto 1/1 - Intermediário - 6 hrs - <a href="https://certificates.digitalinnovation.one/">Certificado</a>
+Projeto 1/1 - Intermediário - 6 hrs - <a href="https://certificates.digitalinnovation.one/134FEAC3">Certificado</a>
