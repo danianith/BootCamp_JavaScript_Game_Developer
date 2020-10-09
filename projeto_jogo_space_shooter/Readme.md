@@ -1,7 +1,7 @@
 
 Projeto para criar um jogo estilo Space Shooter com HTML5, CSS3 e JavaScript da DIO.
 
-Fiz algumas mudanças no CSS de fontes e alinhamentos, retirei a imagem de background da área de jogo e coloquei uma imagem como background do body. Acrescentei mais 3 inimigos além dos propostos.
+Fiz algumas mudanças no CSS de fontes e alinhamentos, troquei a imagem do herói, retirei a imagem de background da área de jogo e coloquei uma imagem como background do body. Acrescentei mais 3 inimigos além dos propostos.
 No JS e no HTML coloquei som de fundo na tela de abertura e de game over, outro som para tocar durante o jogo, um som para os tiros e outro para as explosões.
 Acrescentei um parágrafo na página inicial explicando como jogar. Acrescentei um footer com meus contatos.
 
